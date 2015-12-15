@@ -25,7 +25,7 @@ Features
 To be added.
 
 ##Javascript Development
-
+- [x] Linting with JSLint by Syntastic
 To be added.
 
 ##Java Development
@@ -33,7 +33,8 @@ To be added.
 To be added.
 
 ##Python Development
-
+- [ ] Linting
+- [ ] Smart autocompletion
 To be added.
 
 ##iOS Development (Obj-c and Swift)
