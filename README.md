@@ -10,10 +10,10 @@ I use PHPStorm as my primary IDE for PHP development.  The following PHPStorm fe
 
 Features
 - [x] Access PHP documentation
-  - Pear - pman
+  - Install [pman](http://php.net/download-docs.php) with pear
     - Setup in vim to use "K" binding to find
 - [x] Jumping from files
-  - (Ctrl-P)[https://github.com/kien/ctrlp.vim]
+  - [ctrlp.vim](https://github.com/kien/ctrlp.vim)
 - [ ] Creating code snippets with placeholders
 - [ ] Multiple tabs for files
 - [x] Multiple windows for files
@@ -23,7 +23,7 @@ Features
   - [ ] Automatically update tag file
 - [ ] Limited global search
 - [x] Linting
-  - Syntatic with `php`
+  - [Syntastic](https://github.com/scrooloose/syntastic) with `php`
 - [ ] Autocompletion
 - [ ] Creating files
 - [ ] Renaming files
@@ -37,7 +37,7 @@ Features
 To be added.
 
 ##Javascript Development
-- [x] Linting with JSLint by Syntastic
+- [x] Linting with JSLint by [Syntastic](https://github.com/scrooloose/syntastic)
 To be added.
 
 ##Java Development
@@ -46,7 +46,7 @@ To be added.
 
 ##Python Development
 - [x] Linting
-  - Syntactic with "enter linter name"
+  - [Syntastic](https://github.com/scrooloose/syntastic) with "enter linter name"
 - [ ] Smart autocompletion
 To be added.
 
