@@ -24,6 +24,8 @@ Features
 - [ ] Limited global search
 - [x] Linting
   - [Syntastic](https://github.com/scrooloose/syntastic) with `php`
+    - Problem - Linting does not check if class names are correct.
+      - [ ] Resolved?
 - [ ] Autocompletion
 - [ ] Creating files
 - [ ] Renaming files
