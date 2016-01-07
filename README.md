@@ -4,7 +4,7 @@ This repository is going to serve as a checklist of the features I expect to add
 
 - [ ] Load plugins for specific languages lazily
 - [ ] Make configuration easy to install through Github
-- [ ] Add dotfiles to github
+- [x] Add dotfiles to [github](https://github.com/ddelnano/dotfiles)
 
 ##PHP Development
 
